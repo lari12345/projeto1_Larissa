@@ -1,14 +1,4 @@
-header{
-    background-color: #faeef1;
-}
-footer{
-    background-color:#faeef1;
-    text-align: center;
-}
-h2{
-    text-align: center;
-     
-}
+
 body{
     font-family: Arial,sans-serif;
     margin:0;
@@ -51,5 +41,4 @@ nav ul li a {color: #c95c77;
         margin-top: auto;
     }
 
-    
 
